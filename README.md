@@ -1,5 +1,6 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=David%20Prince%20Hope&fontSize=40&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=David%20Prince%20Hope&fontSize=38&fontColor=00e6e6&animation=twinkling)
+
 
 # 👋 Hi, I'm David Prince Hope  
 
