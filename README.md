@@ -10,7 +10,7 @@
 - 🎓 **Mechatronics Engineering Graduate**  
 - 🤖 Passionate about **Computer Vision, AI, and Robotics**  
 - 🔧 Skilled in **ESP32/ESP8266, IoT & Embedded Systems**  
-- 🌱 Exploring **Deep Learning, PID Control, and Autonomous Robots**  
+- 🌱 Exploring **Computer Vision & Robotics**  
 - ✨ Mission-driven: Building AI-powered systems that **solve real-world problems**  
 
 ---
