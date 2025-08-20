@@ -1,10 +1,8 @@
-<!-- Profile Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=170&section=header&text=David%20Prince%20Hope&fontSize=40&fontColor=ff6ec7&animation=fadeIn)
-
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=David%20Prince%20Hope&fontSize=38&fontColor=00e6e6&animation=twinkling)
 
 # 👋 Hi, I'm David Prince Hope  
 
-💡 *Mechatronics Engineer | Computer Vision & AI Enthusiast | Embedded Systems Builder | Creative Brand Designer*  
+💡 *Mechatronics Engineer | Computer Vision & AI Enthusiast | Embedded Systems Builder*  
 
 ---
 
@@ -12,9 +10,8 @@
 - 🎓 Final Year **Mechatronics Engineering Student**  
 - 🤖 Passionate about **Computer Vision, AI, and Robotics**  
 - 🔧 Hands-on with **ESP32/ESP8266, IoT & Embedded Systems**  
-- 🎨 5+ years in **Graphic Design & Branding**  
-- 🌱 Currently working on **Deep Learning, PID Control, and Smart Energy Systems**  
-- ✨ Mission-driven: Using AI & design to **solve real-world problems**  
+- 🌱 Currently working on **Deep Learning, PID Control, and Autonomous Robots**  
+- ✨ Mission-driven: Building AI-powered systems that **solve real-world problems**  
 
 ---
 
@@ -30,7 +27,7 @@
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)  
-![Adobe](https://img.shields.io/badge/Adobe%20CC-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
@@ -38,8 +35,8 @@
 
 🔹 **IED Detection Rover** – Rocker-Bogie robot with YOLO-based object detection  
 🔹 **Face Tracking System** – ESP32-based PID servo gimbal for real-time tracking  
-🔹 **Lightly Tec** – Energy monitoring software & brand identity  
-🔹 **Brand Identity Work** – Logos for startups like Palmcrest, Watthog, Mynest  
+🔹 **ESP32-CAM Live Stream Control App** – Desktop app for camera + motor control  
+🔹 **ECG with ESP32** – Embedded biomedical system for health monitoring  
 
 ---
 
@@ -56,13 +53,11 @@
 ## 🌍 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](#)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
 [![Email](https://img.shields.io/badge/Email-davidprincehope%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidprincehope@email.com)  
 
 ---
 
-✨ *“All great startups started with strong ideas and bold experiments. I build systems and brands that move in that direction.”*  
+✨ *“All great systems start with strong foundations. I build intelligent machines that bring ideas to life.”*  
 
-<!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
