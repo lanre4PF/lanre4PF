@@ -2,15 +2,15 @@
 
 # 👋 Hi, I'm David Prince Hope  
 
-💡 *Mechatronics Engineer | Computer Vision & AI Enthusiast | Embedded Systems Builder*  
+💡 *Mechatronics Engineering Graduate | Computer Vision & AI Enthusiast | Embedded Systems Builder*  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Final Year **Mechatronics Engineering Student**  
+- 🎓 **Mechatronics Engineering Graduate**  
 - 🤖 Passionate about **Computer Vision, AI, and Robotics**  
-- 🔧 Hands-on with **ESP32/ESP8266, IoT & Embedded Systems**  
-- 🌱 Currently working on **Deep Learning, PID Control, and Autonomous Robots**  
+- 🔧 Skilled in **ESP32/ESP8266, IoT & Embedded Systems**  
+- 🌱 Exploring **Deep Learning, PID Control, and Autonomous Robots**  
 - ✨ Mission-driven: Building AI-powered systems that **solve real-world problems**  
 
 ---
@@ -31,30 +31,11 @@
 
 ---
 
-## 📌 Featured Projects  
-
-🔹 **IED Detection Rover** – Rocker-Bogie robot with YOLO-based object detection  
-🔹 **Face Tracking System** – ESP32-based PID servo gimbal for real-time tracking  
-🔹 **ESP32-CAM Live Stream Control App** – Desktop app for camera + motor control  
-🔹 **ECG with ESP32** – Embedded biomedical system for health monitoring  
-
----
-
-## 📊 GitHub Stats  
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidPrinceHope&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPrinceHope&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidPrinceHope&theme=radical)  
-
----
-
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-davidprincehope%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidprincehope@email.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-prince-lanre4pf?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/davidprincehope?s=21)  
+[![Email](https://img.shields.io/badge/Email-lanresmail410%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanresmail410@gmail.com)  
 
 ---
 
