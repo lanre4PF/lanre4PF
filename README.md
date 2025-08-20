@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm David Prince Hope  
 
-💡 *Mechatronics Engineering Graduate | Computer Vision & AI Enthusiast | Embedded Systems Builder*  
+💡 *Mechatronics Engineering Graduate | Computer Vision & AI Enthusiast | Embedded Systems *  
 
 ---
 
